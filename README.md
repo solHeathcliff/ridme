@@ -51,11 +51,3 @@ Proyek ini menggunakan beberapa sumber data Fitabase dan dataset kesehatan tidur
 Catatan: Karena ukuran file mentah relatif besar, dataset sumber tidak disertakan langsung di repositori. Anda bisa mengunduh data mentah dari Google Drive proyek (akses sesuai kebijakan privasi) dan tempatkan file di folder `data/` sebelum menjalankan aplikasi.
 
 Google Drive: https://drive.google.com/drive/folders/13R3Ih25d4v0kRuajC71Qe-AcyqayYA2g?usp=sharing
-
-## Struktur Direktori (singkat)
-
-- `dashboard-capstone-project.py` — entry-point Streamlit
-- `requirements.txt` — daftar dependensi Python
-- `data/` — tempat meletakkan file dataset mentah (tidak disertakan)
-- `notebooks/` — skrip eksplorasi dan analisis
-
