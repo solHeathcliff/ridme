@@ -59,16 +59,3 @@ Google Drive: https://drive.google.com/drive/folders/13R3Ih25d4v0kRuajC71Qe-Acyq
 - `data/` — tempat meletakkan file dataset mentah (tidak disertakan)
 - `notebooks/` — skrip eksplorasi dan analisis
 
-## Tips Penggunaan
-
-- Mulai dari filter waktu yang lebih sempit untuk memahami pola harian
-- Gunakan segmentasi BMI untuk melihat perbedaan kelompok
-- Eksport grafik jika ingin menyertakan insight di laporan
-
-## Lisensi & Kontak
-
-Proyek ini tersedia untuk penggunaan akademis dan demonstrasi. Untuk pertanyaan atau kolaborasi, hubungi pemilik proyek.
-
----
-
-Terima kasih telah menggunakan dashboard ini — semoga membantu analisis pola tidur dan aktivitas fisik Anda.
